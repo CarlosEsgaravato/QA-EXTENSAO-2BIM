@@ -70,4 +70,4 @@
 | :--------------------------- |
 | O sistema deve impedir concluir a venda |
 
-## 🔗 Evidências - 
+## 🔗 Evidências - https://drive.google.com/drive/folders/15xzhMBhTqg0sBP9N4PZdeEOX7Ks2ebMf?usp=drive_link
