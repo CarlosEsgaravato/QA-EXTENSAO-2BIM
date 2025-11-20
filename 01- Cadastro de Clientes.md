@@ -13,7 +13,7 @@
 | **Passos**                                                        |
 | :---------------------------------------------------------------- |
 | **DADO** que estamos na página "Cadastrar Cliente"                |
-| **E** preenchemos "João Silva" no campo Nome                      |
+| **E** preenchemos "CARLOS" no campo Nome                      |
 | **E** preenchemos "123.456.789-00" no campo CPF                   |
 | **E** preenchemos "endereço" no campo CEP                         |
 | **QUANDO** clicarmos no botão "Salvar"                            |
@@ -38,7 +38,7 @@
 | **Passos**                                                        |
 | :---------------------------------------------------------------- |
 | **DADO** que estamos na página "Cadastrar Cliente"                |
-| **E** preenchemos "José Santos" no campo Nome                     |
+| **E** preenchemos "CARLOS" no campo Nome                     |
 | **E** preenchemos "11111111111" no campo CPF                      |
 | **E** preenchemos "endereço" no campo CEP                         |
 | **QUANDO** clicarmos no botão "Salvar"                            |
@@ -63,7 +63,7 @@
 | **Passos**                                                        |
 | :---------------------------------------------------------------- |
 | **DADO** que estamos na página "Cadastrar Cliente"                |
-| **E** preenchemos "João Silva" no campo Nome                      |
+| **E** preenchemos "CARLOS" no campo Nome                      |
 | **E** preenchemos "123.456.789-00" no campo CPF                   |
 | **QUANDO** clicarmos em "Salvar"                                  |
 | **ENTÃO** será exibida a mensagem "Cliente já cadastrado"         |
