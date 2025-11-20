@@ -69,3 +69,5 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O registro duplicado não deve ser salvo.                        |
+
+## 🔗 Evidências - https://drive.google.com/drive/folders/1ebHNaEIeozBrq3oGdb2Pec7JcHgNjvhh?usp=sharing
