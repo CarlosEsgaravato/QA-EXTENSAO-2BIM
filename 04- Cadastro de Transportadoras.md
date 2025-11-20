@@ -72,3 +72,5 @@
 | **Critérios de aceitação**          |
 | :---------------------------------- |
 | Cadastro duplicado deve ser negado. |
+
+## 🔗 Evidências - https://drive.google.com/drive/folders/18r5TZ6DASnWzdYk5ExYpauATfJu2BspT?usp=drive_link
