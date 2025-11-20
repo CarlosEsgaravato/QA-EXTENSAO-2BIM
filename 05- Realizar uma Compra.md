@@ -13,8 +13,8 @@
 | **Passos**                                                                          |
 | :---------------------------------------------------------------------------------- |
 | **DADO** que estamos na página "Registrar Compra"                                    |
-| **E** selecionamos o fornecedor "Ferro LTDA"                              |
-| **E** adicionamos o produto "Monitor 24 Polegadas" quantidade "10"                   |
+| **E** selecionamos o fornecedor "Intelbras LTDA"                              |
+| **E** adicionamos o produto "Camiseta" quantidade "10"                   |
 | **QUANDO** clicarmos em "Confirmar Compra"                                           |
 | **ENTÃO** a compra será registrada com sucesso                                       |
 
@@ -38,7 +38,7 @@
 | :------------------------------------------------------------------------------ |
 | **DADO** que estamos na página "Registrar Compra"                                |
 | **E** não selecionamos nenhum fornecedor                                         |
-| **E** adicionamos o produto "Monitor 24 Polegadas" quantidade "10"               |
+| **E** adicionamos o produto "Camiseta" quantidade "10"               |
 | **QUANDO** clicarmos em "Confirmar Compra"                                       |
 | **ENTÃO** deve ser exibida a mensagem "Selecione um fornecedor"                 |
 
@@ -61,7 +61,7 @@
 | **Passos**                                                                  |
 | :-------------------------------------------------------------------------- |
 | **DADO** que estamos na página "Registrar Compra"                           |
-| **E** selecionamos o fornecedor "Ferro LTDA"                     |
+| **E** selecionamos o fornecedor "Intelbras LTDA"                     |
 | **E** não adicionamos nenhum produto                                        |
 | **QUANDO** clicarmos em "Confirmar Compra"                                  |
 | **ENTÃO** será exibida a mensagem "Adicione pelo menos um produto"          |
@@ -69,3 +69,5 @@
 | **Critérios de aceitação**    |
 | :---------------------------- |
 | A compra não deve ser registrada |
+
+## 🔗 Evidências - 
